@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Hiram Avila (2)](https://github.com/hiram-avila/hiram-avila/assets/77989904/48228f8f-0174-4b0e-96c4-2e4e169a1698)
 
+
+![Hiram Avila (6)](https://github.com/hiram-avila/hiram-avila/assets/77989904/82a8de03-46ea-4b09-90a1-27ff4b639881)
 
 <!--
 **hiram-avila/hiram-avila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
