@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hiram Avila (2)](https://github.com/hiram-avila/hiram-avila/assets/77989904/a5b59b2a-93c5-4274-ac5c-1c893cfa7f3f)
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
 
 
 <!--
