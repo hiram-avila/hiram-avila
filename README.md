@@ -9,6 +9,9 @@
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
+     <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/>
     </a>    <a href="https://www.w3schools.com/cpp/" target="_blank">
