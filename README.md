@@ -1,35 +1,75 @@
+#  Hiram Ávila
 
-![banner](Hiram-Avila1.gif)
-<h3 align="center">Fullstack developer</h3>
+![Banner](Hiram-Avila1.gif)
 
-<p align="center">
-    <a href="https://spring.io/projects/spring-boot" target="_blank" alt="spring boot" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
-    <a href="https://reactjs.org/" target="_blank" alt="react" style="margin-right: 10px; ">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    </a>
-    <a href="https://nodejs.org" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" style="margin-right: 10px;">
-    <a href="https://www.docker.com/" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io" target="_blank" style="margin-right: 10px;">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-    </a>
-</p>
+# **Fullstack Developer · Quantitative Developer · Risk & ML Enthusiast**
 
+> _Construyo software robusto, modelos cuantitativos y sistemas escalables con un enfoque riguroso en riesgo, performance y arquitectura._
 
+---
+
+## 🧰 **Tech Stack Principal**
+
+### 🎨 **Frontend**
+- React · Next.js  
+- TypeScript  
+- TailwindCSS · ShadCN  
+
+### ⚙️ **Backend**
+- Java · Spring Boot  
+- Python · FastAPI  
+- Node.js  
+
+### 📊 **Data & Machine Learning**
+- Pandas · NumPy  
+- Scikit-learn · XGBoost  
+- Backtesting · Metrics (MAE, RMSE, VaR, MAPE)  
+
+### ☁️ **DevOps & Cloud**
+- Docker · Kubernetes  
+- GitHub Actions  
+- AWS: EC2, RDS, S3  
+
+---
+
+## 📫 **Contacto**
+- ✉️ **Email:** hiram.avila@example.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/hiramavila  
+- 🌐 **Portafolio:** https://hiramavila.com  
+
+---
+
+# 🧠 **Professional Summary**
+
+Ingeniero de software especializado en:
+
+- 🏗️ Arquitecturas fullstack modernas  
+- 📈 Machine Learning aplicado a mercados financieros  
+- 🧮 Desarrollo cuantitativo (Quant Dev)  
+- 📉 Validación de riesgo: MAE, RMSE, VaR, backtesting  
+- 🔐 Microservicios de alta disponibilidad  
+
+> _"Mi objetivo es transformar datos complejos en decisiones accionables mediante software, ciencia de datos y matemáticas."_
+
+---
+
+# 🚀 **Featured Projects**
+
+| 🚧 Proyecto | 🛠️ Tecnologías | 📝 Descripción | 📉 Enfoque Risk / Quant |
+|-------------|----------------|----------------|--------------------------|
+| **Risk-Aware Price Predictor** | React, TS, Tailwind, Recharts, FastAPI, Docker | Dashboard de predicción con intervalos de confianza y backtesting. | MAE, RMSE, análisis de incertidumbre |
+| **Trading Signal Engine** | Python, Pandas, NumPy, FastAPI, PostgreSQL | Motor cuantitativo con señales, optimización y control de drawdown. | Sharpe Ratio, Monte Carlo, riesgo ajustado |
+| **Microservicio de Pagos** | Spring Boot, Kafka, Kubernetes, AWS | Servicio financiero con idempotencia y alta disponibilidad. | Resiliencia, concurrencia, observabilidad |
+| **Real-time Analytics Dashboard** | React, Node.js, Socket.IO, Redis, Grafana | Dashboard financiero en tiempo real (<200ms). | Baja latencia y tolerancia a fallos |
+
+---
+
+## 🔥 **Fortalezas Técnicas**
+
+- Arquitectura limpia y escalable  
+- Modelos ML con explicación e interpretación  
+- Sistemas distribuídos de baja latencia  
+- Diseño centrado en métricas de rendimiento y riesgo  
+- Buenas prácticas DevOps y CI/CD  
+
+---
