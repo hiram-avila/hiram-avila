@@ -10,27 +10,13 @@
 
 ## 🧰 **Tech Stack Principal**
 
-### 🎨 **Frontend**
-- React · Next.js  
-- TypeScript  
-- TailwindCSS · ShadCN  
+| 🎨 **Frontend** | ⚙️ **Backend** |
+|-----------------|----------------|
+| • React / Next.js<br>• TypeScript<br>• TailwindCSS / ShadCN | • Java / Spring Boot<br>• Python / FastAPI<br>• Node.js |
 
-### ⚙️ **Backend**
-- Java · Spring Boot  
-- Python · FastAPI  
-- Node.js  
-
-### 📊 **Data & Machine Learning**
-- Pandas · NumPy  
-- Scikit-learn · XGBoost  
-- Backtesting · Metrics (MAE, RMSE, VaR, MAPE)  
-
-### ☁️ **DevOps & Cloud**
-- Docker · Kubernetes  
-- GitHub Actions  
-- AWS: EC2, RDS, S3  
-
----
+| 📊 **Data & Machine Learning** | ☁️ **DevOps & Cloud** |
+|-------------------------------|-------------------------|
+| • Pandas / NumPy<br>• Scikit-learn / XGBoost<br>• Backtesting<br>• Risk Metrics (MAE, RMSE, VaR, MAPE) | • Docker / Kubernetes<br>• GitHub Actions<br>• AWS (EC2, RDS, S3) |
 
 ## 📫 **Contacto**
 - ✉️ **Email:** hiram.avila@example.com  
