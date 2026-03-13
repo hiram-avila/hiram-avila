@@ -2,7 +2,7 @@
 
 ![Banner](Hiram-Avila1.gif)
 
-# **Fullstack Developer · Quantitative Developer · Risk & ML Enthusiast**
+# **Fullstack Developer · Quantitative Developer **
 
 > _Construyo software robusto, modelos cuantitativos y sistemas escalables con un enfoque riguroso en riesgo, performance y arquitectura._
 
